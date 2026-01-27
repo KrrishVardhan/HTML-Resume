@@ -22,7 +22,7 @@ This is a single-page HTML resume showcasing my skills, experience, projects, an
 2. Open `index.html` in your web browser
 3. That's it!
 
-## Screenshots
+## Screenshot
 
 ![HTML Resume Screenshot](images/Screenshot.png)
 
